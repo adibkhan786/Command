@@ -1,0 +1,6 @@
+Class Hotel{
+int hid;
+String hname;
+String hadd;
+}
+
